@@ -13,7 +13,7 @@ A mobile app designed to help users find and join study groups based on their in
 4. [Setup and Installation](#setup-and-installation)  
 5. [Screenshots and Progress GIFs]
 6.
-7. ![github_workflow_steps](https://github.com/user-attachments/assets/9faa7274-8ba3-4145-84f8-13e48779677c)
+7. 
 
 8. [Contributors]  
 
@@ -78,17 +78,17 @@ This project is part of the CodePath iOS Capstone course. The app allows users t
 
 ### **Current Screens**
 #### Discover Groups Screen  
-![Discover Groups Screen](#)  
+#![Discover Groups Screen](#)  
 
 #### Join Group Button  
-![Join Group Button](#)  
+#![Join Group Button](#)  
 
 ### **Progress GIFs**
 #### User Registration Workflow  
-![User Registration Workflow GIF](#)
+#![User Registration Workflow GIF](#)
 
 #### Group Search Functionality  
-![Group Search GIF](#)
+![github_workflow_steps](https://github.com/user-attachments/assets/9faa7274-8ba3-4145-84f8-13e48779677c)
 
 ---
 
