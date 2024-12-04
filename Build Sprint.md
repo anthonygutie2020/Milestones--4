@@ -11,8 +11,11 @@ A mobile app designed to help users find and join study groups based on their in
     - [Sprint Plan](#sprint-plan)  
     - [GitHub Project Workflow](#github-project-workflow)  
 4. [Setup and Installation](#setup-and-installation)  
-5. [Screenshots and Progress GIFs] 
-6. [Contributors]  
+5. [Screenshots and Progress GIFs]
+6.
+7. ![github_workflow_steps](https://github.com/user-attachments/assets/9faa7274-8ba3-4145-84f8-13e48779677c)
+
+8. [Contributors]  
 
 ---
 
